@@ -1,0 +1,29 @@
+{
+  "name": "random--win",
+  "version": "1.0.1",
+  "description": "Paquete para generar un ganador para tu concurso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NPM",
+    "Git",
+    "GitHub"
+  ],
+  "author": "ortizProg <originalortizprog@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-ganador": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortizProg/random--win.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ortizProg/random--win/issues"
+  },
+  "homepage": "https://github.com/ortizProg/random--win#readme"
+}
